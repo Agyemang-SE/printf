@@ -1,4 +1,4 @@
-## 0x11. C - printf
+### 0x11. C - printf
 CGroup project
 
     By: Julien Barbier, co-founder & CEO
@@ -240,7 +240,7 @@ Repo:
     GitHub repository: printf
 
 3. What one has not experienced, one will never understand in print
-# advanced
+#advanced
 Score: 0.0% (Checks completed: 0.0%)
 
 Handle the following conversion specifiers:
@@ -269,7 +269,7 @@ Repo:
     GitHub repository: printf
 
 5. My weakness is wearing too much leopard print
-# advanced
+#advanced
 Score: 0.0% (Checks completed: 0.0%)
 
 Handle the following custom conversion specifier:
@@ -316,7 +316,7 @@ Repo:
     GitHub repository: printf
 
 7. The big print gives and the small print takes away
-# advanced
+#advanced
 Score: 0.0% (Checks completed: 0.0%)
 
 Handle the following flag characters for non-custom conversion specifiers:
